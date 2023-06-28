@@ -7,8 +7,8 @@ This repository is aimed at providing a reproducible benchmark for HLA typing im
 used for this benchmark comes from Nizhny Novgorod, Russia [1] and used as an external testing set on which
 none of these tools were trained eliminating the risk of overtting (n = 1510). The testing data consists of NGS
 data from 1510 individuals with high-resolution typings for loci HLA-A, -C, -B, -DRB1, -DQB1. The data does not contain
-ambiguities such as the standard non resolved ambiguities like DQB1*02:01:01G (corresponding to either DQB1*02:01 or 
-DQB1*02:02 or DQB1*02:04 or DQB1*02:06). 
+ambiguities such as the standard non resolved ambiguities like DQB1\*02:01:01G (corresponding to either DQB1\*02:01 or 
+DQB1\*02:02 or DQB1\*02:04 or DQB1\*02:06). 
 
 ## Structure
 In the folder Nizhny_Novgorod_Russia you will find the following files:
