@@ -12,9 +12,13 @@ DQB1\*02:02 or DQB1\*02:04 or DQB1\*02:06).
 
 ## Structure
 In the folder Nizhny_Novgorod_Russia you will find the following files:
+
 - `Russia_2digits.xlsx`, corresponds to the low-resolution data for the 1510 individuals.
 - `Russia_4digits.xlsx`, corresponds to the high-resolution data for the 1510 individuals.
+
+
 And the following folders:
+
 - `HLA-EMMA` with HLA-EMMA input formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scoresEMMA.xlsx`).
 - `HaploStats` with HaploStats input formatted into what the software accepts, the raw ouput of our robot requesting
@@ -24,6 +28,9 @@ compute the tool's performances (`scoresSFHI.xlsx`).
 - `easyHLA` with HLA Upgrade inputs formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scores_easyHLA.xlsx`). Inputs are provided as 4 small files because `easyHLA` cannot
 process large files.
+
+Note that sheets marked as `boostrap` are merely copies of the original sheets without formulas to allow easier 
+computations in Python for the confidence intervals of the accuracy metrics.
 
 ## References
 [1] Ekaterina Khamaganova. Dataset of HLA NGS typings from individuals of Nizhny Novgorod, Russia, 2020.
