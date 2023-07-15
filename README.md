@@ -12,8 +12,8 @@ DQB1\*02:02 or DQB1\*02:04 or DQB1\*02:06).
 
 ## Structure
 In the folder Nizhny_Novgorod_Russia you will find the following files:
-- `Russia_2digits.xlsx`, corresponds to the low-resolution data for the 1510 individuals
-- `Russia_4digits.xlsx`, corresponds to the high-resolution data for the 1510 individuals
+- `Russia_2digits.xlsx`, corresponds to the low-resolution data for the 1510 individuals.
+- `Russia_4digits.xlsx`, corresponds to the high-resolution data for the 1510 individuals.
 And the following folders:
 - `HLA-EMMA` with HLA-EMMA input formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scoresEMMA.xlsx`).
@@ -22,7 +22,7 @@ the website and the Excel file to compute the tool's performances (`scoresCAU.xl
 - `HaploSFHI` with HaploSFHI input formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scoresSFHI.xlsx`).
 - `easyHLA` with HLA Upgrade inputs formatted into what the software accepts, the raw ouput and the Excel file to
-compute the tool's performances (`scores_easyHLA.xlsx`). Inputs are provided as 4 small files because easyHLA cannot
+compute the tool's performances (`scores_easyHLA.xlsx`). Inputs are provided as 4 small files because `easyHLA` cannot
 process large files.
 
 ## References
