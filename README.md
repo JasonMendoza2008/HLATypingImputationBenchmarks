@@ -22,7 +22,8 @@ the website and the Excel file to compute the tool's performances (`scoresCAU.xl
 - `HaploSFHI` with HaploSFHI input formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scoresSFHI.xlsx`).
 - `easyHLA` with HLA Upgrade inputs formatted into what the software accepts, the raw ouput and the Excel file to
-compute the tool's performances (`scores_easyHLA.xlsx`).
+compute the tool's performances (`scores_easyHLA.xlsx`). Inputs are provided as 4 small files because easyHLA cannot
+process large files.
 
 ## References
 [1] Ekaterina Khamaganova. Dataset of HLA NGS typings from individuals of Nizhny Novgorod, Russia, 2020.
