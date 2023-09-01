@@ -20,14 +20,16 @@ In the folder Nizhny_Novgorod_Russia you will find the following files:
 And the following folders:
 
 - `HLA-EMMA` with HLA-EMMA input formatted into what the software accepts, the raw ouput and the Excel file to
-compute the tool's performances (`scoresEMMA.xlsx`).
+compute the tool's performances (`scoresEMMA.xlsx`). For high-resolution conversion, two settings from HLA EMMA were 
+tested: EURCAU (European Caucasian) and NL (Netherlands, Leiden).
 - `HaploStats` with HaploStats input formatted into what the software accepts, the raw ouput of our robot requesting
-the website and the Excel file to compute the tool's performances (`scoresCAU.xlsx` and `scoresEURCAU.xlsx`).
+the website and the Excel file to compute the tool's performances. Both the CAU = Caucasian, and EURCAU = European 
+Caucasian settings were tested (`scoresCAU.xlsx` and `scoresEURCAU.xlsx`).
 - `HaploSFHI` with HaploSFHI input formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scoresSFHI.xlsx`).
 - `easyHLA` with HLA Upgrade inputs formatted into what the software accepts, the raw ouput and the Excel file to
 compute the tool's performances (`scores_easyHLA.xlsx`). Inputs are provided as 4 small files because `easyHLA` cannot
-process large files.
+process large files. Both the FR = French and EU = European settings were tested.
 
 Note that sheets marked as `boostrap` are merely copies of the original sheets without formulas to allow easier 
 computations in Python for the confidence intervals of the accuracy metrics.
