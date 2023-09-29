@@ -38,4 +38,4 @@ computations in Python for the confidence intervals of the accuracy metrics.
 [1] Ekaterina Khamaganova. Dataset of HLA NGS typings from individuals of Nizhny Novgorod, Russia, 2020.
 
 ## Used in
-Lhotte R, Letort V,Usureau C, et al. Improving HLA typing imputation accuracy and eplet identification withlocal next-generation sequencing training data.HLA. 2023;1‐14. doi:10.1111/tan.1522214LHOTTEET AL.
+Lhotte R, Letort V, Usureau C, et al. Improving HLA typing imputation accuracy and eplet identification with local next-generation sequencing training data. HLA. 2023;1‐14. doi:10.1111/tan.1522214
