@@ -13,8 +13,8 @@ DQB1\*02:02 or DQB1\*02:04 or DQB1\*02:06).
 ## Structure
 In the folder Nizhny_Novgorod_Russia you will find the following files:
 
-- `Russia_2digits.xlsx`, corresponds to the low-resolution data for the 1510 individuals.
-- `Russia_4digits.xlsx`, corresponds to the high-resolution data for the 1510 individuals.
+- `Russia_2digits.xlsx`, corresponds to the low-resolution data (= "serological group level", e.g. A2) for the 1510 individuals.
+- `Russia_4digits.xlsx`, corresponds to the high-resolution data (= "two-field level", e.g. A*02:01) for the 1510 individuals.
 
 
 And the following folders:
