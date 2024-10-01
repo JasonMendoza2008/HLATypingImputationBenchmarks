@@ -33,7 +33,7 @@ compute the tool's performances (`scoresSFHI.xlsx`). This corresponds to the ver
 and which is described in [2].
 - `HaploSFHI V3` with 1/ HaploSFHI V3 input formatted into what the software accepts, and 2/ the Excel file to compute 
 the tool's performances (`scoresSFHI5blocks.xlsx`). This version is not online and is the 5-block version of HaploSFHI 
-V2. The differences between V2 and V3 are described in [3]. V3 is not available online.
+V2. The differences between V2 and V3 are described in [3].
 - `HaploDeep` with 1/ HaploDeep input, and 2/ the Excel file to compute the tool's performances 
 (`scoresHaploDeep.xlsx`). This is an open-weight ensemble of 5 neural networks. The weights are available on this 
 GitHub (in the releases) under the standard ONNX format. There is also MRE code for users that might not be familiar 
